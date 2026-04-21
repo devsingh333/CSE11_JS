@@ -12,8 +12,6 @@ function App() {
       <React>
         <Navbar/>
         <Routes>
-          <home>
-
           
         </Routes>
       </React>
